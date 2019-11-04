@@ -9,7 +9,7 @@ namespace CosmosWithEfCore.Models
     public class Bookmark
     {
         [Key]
-
+        //
 
         public string Id { get; set; }
         public string Title { get; set; }

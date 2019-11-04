@@ -30,7 +30,7 @@ namespace CosmosWithEfCore.Controllers
             {
                 return NoContent();
             }
-
+            //
             return Ok(bookmark);
         }
 
